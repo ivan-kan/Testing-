@@ -1,3 +1,3 @@
 # Testing-
-To let me familiarize with GitHub \n
+To let me familiarize with GitHub
 Hi 
